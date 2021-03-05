@@ -1,0 +1,5 @@
+**/id_rsa*
+cruise-config.xml
+known_hosts
+godata/*
+!placeholder
